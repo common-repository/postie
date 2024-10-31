@@ -1,0 +1,58 @@
+=== Postie ===
+Contributors: WayneAllen
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HPK99BJ88V4C2
+Author URI: http://allens-home.com/
+Plugin URI: http://PostiePlugin.com/
+Tags: e-mail, email, post-by-email
+Requires PHP: 7.0
+Requires at least: 5.6
+Tested up to: 6.4
+Stable tag: 1.9.69
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Postie allows you to create posts via email, including many advanced features not found in WordPress's default Post by Email feature.
+
+== Description ==
+Postie offers many advanced features for creating posts by email, including the ability to assign categories by name, included pictures and videos, and automatically strip off signatures. 
+Postie supports both IMAP and POP including SSL/TLS.
+There is also an extensive set of filters/actions for developers to extend Postie's functionality.
+For usage notes, see the [other notes](other_notes) page.
+
+More info at http://PostiePlugin.com/
+
+= Features =
+* Supports IMAP or POP3 servers
+* SSL and TLS supported
+* Control who gets to post via email
+* Set defaults for category, status, post format, post type and tags.
+* Set title, category, status, post format, post type, date, comment control and tags in email to override defaults.
+* Specify post excerpt (including excerpt only images).
+* Use plain text or HTML version of email.
+* Remove headers and footers from email (useful for posting from a mailing list).
+* Optionally send emails on post success/failure.
+* Control the types of attachments that are allowed by file name (wildcards allowed) and MIME type.
+* Optionally make the first image the featured image.
+* Gallery support.
+* Control image placement with plain text email.
+* Templates for images so they look the way you want.
+* Templates for videos.
+* Templates for audio files.
+* Templates for other attachments.
+* Email replies become comments.
+
+= Developers =
+* Several filter hooks available for custom processing of emails.
+* More developer info at <a href="http://postieplugin.com/extending/">http://postieplugin.com/extending/</a>
+
+== Screenshots ==
+
+1. Postie server options
+2. Postie user options
+3. Postie message options
+4. More message options
+5. Even more message options
+6. Image options
+7. Video and Audio options
+8. Attachment options
+

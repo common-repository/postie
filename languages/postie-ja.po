@@ -1,0 +1,549 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Postie v1.6.12\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-02-12 00:23+0900\n"
+"Last-Translator: stranger-jp <wordpress.stranger.jp@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext: 1,2;_n: 1,2;__ngettext_noop: 1,2;"
+"_n_noop: 1,2;_c,_nc: 4c,1,2;_x: 1,2c;_ex: 1,2c;_nx: 4c,1,2;_nx_noop: 4c,1,2\n"
+"X-Poedit-Basepath: ../../../../../\n"
+"X-Textdomain-Support: yes\n"
+"Language: ja_JP\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Postie Settings"
+msgstr "Postie設定"
+
+msgid "Configuration successfully updated!"
+msgstr "設定が正常に更新！"
+
+msgid "Error - unable to save configuration"
+msgstr "エラー - 設定を保存できません"
+
+msgid "message"
+msgstr "メッセージ"
+
+msgid "Run Postie"
+msgstr "Postieを実行"
+
+msgid "(To run the check mail script manually)"
+msgstr "(手動でメール確認スクリプトを実行)"
+
+msgid "Run Postie (Debug)"
+msgstr "Postieを実行 (デバッグ)"
+
+msgid "(To run the check mail script manually with full debug output)"
+msgstr "(完全なデバッグ出力を使用して手動でメール確認スクリプトを実行)"
+
+msgid "Test Config"
+msgstr "設定テスト"
+
+msgid "this will check your configuration options"
+msgstr "設定オプションのチェックを実行"
+
+msgid "Mailserver"
+msgstr "メールサーバー"
+
+msgid "User"
+msgstr "ユーザー"
+
+msgid "Message"
+msgstr "メッセージ"
+
+msgid "Image"
+msgstr "画像"
+
+msgid "Video and Audio"
+msgstr "動画と音声"
+
+msgid "Attachments"
+msgstr "添付ファイル"
+
+msgid "Support"
+msgstr "サポート"
+
+msgid "Mail Protocol"
+msgstr "メールプロトコル"
+
+msgid "Use Transport Layer Security (TLS)"
+msgstr "トランスポートレイヤーセキュリティを使用 (TLS)"
+
+msgid "Choose Yes if your server requres TLS"
+msgstr "サーバーがTLSを必要とする場合は'Yes'を選択します。"
+
+msgid "Port"
+msgstr "ポート"
+
+msgid "Standard Ports"
+msgstr "標準ポート"
+
+msgid "POP3"
+msgstr "POP3"
+
+msgid "IMAP"
+msgstr "IMAP"
+
+msgid "IMAP-SSL"
+msgstr "IMAP-SSL"
+
+msgid "POP3-SSL"
+msgstr "POP3-SSL"
+
+msgid "Mail Server"
+msgstr "メールサーバー"
+
+msgid "Mail Userid"
+msgstr "メールユーザーID"
+
+msgid "Mail Password"
+msgstr "メールパスワード"
+
+msgid "Postie Time Correction"
+msgstr "Postieの時刻補正"
+
+msgid "Should be the same as your normal offset, but this lets you adjust it in cases where that doesn't work."
+msgstr "通常はオフセットと同じにする必要がありますが、動作しない場合は調整してください。。"
+
+msgid "hours"
+msgstr "時間"
+
+msgid "Check for mail every"
+msgstr "メールのチェック頻度"
+
+msgid "Once weekly"
+msgstr "週1回"
+
+msgid "daily"
+msgstr "毎日"
+
+msgid "hourly"
+msgstr "毎時"
+
+msgid "twice per hour"
+msgstr "1時間に2回"
+
+msgid "every ten minutes"
+msgstr "10分ごと"
+
+msgid "every five minutes"
+msgstr "5分ごと"
+
+msgid "check manually"
+msgstr "手動チェック"
+
+msgid "Maximum number of emails to process"
+msgstr "処理するメールの最大数"
+
+msgid "Delete email after posting"
+msgstr "投稿後にメールを削除"
+
+msgid "Only set to no for testing purposes"
+msgstr "テスト目的の場合のみ'No'に設定してください。"
+
+msgid "Allow Anyone To Post Via Email"
+msgstr "誰でもメールで投稿可能"
+
+msgid "Roles That Can Post"
+msgstr "投稿可能な権限"
+
+msgid "This allows you to grant access to other users to post if they have the proper access level. Administrators can always post."
+msgstr "適切なアクセス権限を持っている場合、投稿する他のユーザーにアクセスを許可することができます。管理者は常に投稿可能です。"
+
+msgid "Default Poster"
+msgstr "デフォルトの投稿者"
+
+msgid "This will be the poster if you allow posting from emails that are not a registered blog user."
+msgstr "登録済みユーザーではないメールアドレスからの投稿を許可した場合、このユーザーが投稿者になります。"
+
+msgid "Default post by mail category"
+msgstr "デフォルトの投稿カテゴリー"
+
+msgid "Default post by mail tag(s)"
+msgstr "デフォルトのメール投稿タグ"
+
+msgid "separated by commas"
+msgstr "カンマ区切り"
+
+msgid "Default Post Status"
+msgstr "デフォルトの投稿状態"
+
+msgid "Default Post Format"
+msgstr "デフォルトの投稿フォーマット"
+
+msgid "Default Post Type"
+msgstr "デフォルトの投稿タイプ"
+
+msgid "Default Title"
+msgstr "デフォルトのタイトル"
+
+msgid "Preferred Text Type"
+msgstr "好みのテキストの種類"
+
+msgid "Tag Of Message Start"
+msgstr "メッセージ開始タグ"
+
+msgid "Use to remove any text from a message that the email provider puts at the top of the message"
+msgstr "メールプロバイダがメッセージの最初に置くメッセージから任意のテキストを削除するために使用します。"
+
+msgid "Tag Of Message End"
+msgstr "メッセージ終了タグ"
+
+msgid "Use to remove any text from a message that the email provider puts at the end of the message"
+msgstr "メールプロバイダがメッセージの最後に置くメッセージから任意のテキストを削除するために使用します。"
+
+msgid "sender"
+msgstr "送信者"
+
+msgid "administrator"
+msgstr "管理者"
+
+msgid "sender and administrator"
+msgstr "送信者と管理者"
+
+msgid "none"
+msgstr "送信しない"
+
+msgid "Encoding for pages and feeds"
+msgstr "ページとフィードの文字コード"
+
+msgid "The character set for your blog."
+msgstr "ブログの文字コード設定です。"
+
+msgid "should handle ISO-8859-1 as well"
+msgstr "だけでなくISO-8859-1を処理する必要があります。"
+
+msgid "Image Place Holder Tag"
+msgstr "画像プレースホルダタグ"
+
+msgid "Image Template"
+msgstr "画像テンプレート"
+
+msgid "Choose a default template, then customize to your liking in the text box"
+msgstr "デフォルトのテンプレートを選択し、好みに合わせてテキストボックスをカスタマイズします。"
+
+msgid "Note that this template are only used if the \"Preferred Text Type\" setting is set to \"plain\""
+msgstr "'好みのテキストの種類の設定'が'plain'に設定されている場合、このテンプレートにのみ使用されていることにご注意ください"
+
+msgid "Sizes for thumbnail, medium, and large images can be chosen in the <a href=\"options-media.php\">Media Settings</a>. The samples here use the default sizes, and will not reflect the sizes you have chosen."
+msgstr "サムネイル、中、大画像用のサイズが<a href=\"options-media.php\">メディア設定</a>で選択することができます。このサンプル画像はデフォルトのサイズを使用するので、選択したサイズは反映されません。"
+
+msgid "Preview"
+msgstr "プレビュー"
+
+msgid "Video template 1"
+msgstr "動画テンプレート 1"
+
+msgid "Video 1 file extensions"
+msgstr "動画ファイル拡張子 1"
+
+msgid "Use video template 1 for files with these extensions (separated by commas)"
+msgstr "これらの拡張子を持つファイルは動画テンプレート 1を使用します。 (カンマ区切り)"
+
+msgid "Video template 2"
+msgstr "動画テンプレート 2"
+
+msgid "Video 2 file extensions"
+msgstr "動画ファイル拡張子 2"
+
+msgid "Use video template 2 for files with these extensions (separated by commas)"
+msgstr "これらの拡張子を持つファイルは動画テンプレート 2を使用します。 (カンマ区切り)"
+
+msgid "Audio template"
+msgstr "音声テンプレート"
+
+msgid "Audio file extensions"
+msgstr "音声ファイルの拡張子"
+
+msgid "Use the audio template for files with these extensions (separated by commas)"
+msgstr "これらの拡張子を持つファイルは音声テンプレートを使用します。 (カンマ区切り)"
+
+msgid "Attachment icon set"
+msgstr "添付ファイルのアイコンセット"
+
+msgid "Attachment icon size (in pixels)"
+msgstr "添付ファイルアイコンのサイズ (ピクセル数)"
+
+msgid "Attachment template"
+msgstr "添付ファイルのテンプレート"
+
+msgid "Save Changes"
+msgstr "変更を保存"
+
+msgid "Reset Settings To Defaults"
+msgstr "設定をデフォルトにリセット"
+
+msgid "memory at start of e-mail processing"
+msgstr "メール処理の開始時にメモリ"
+
+msgid "Dang, message is empty!"
+msgstr "メッセージが空です！"
+
+msgid "Message is already marked 'read'."
+msgstr "'読み取り'のメッセージがすでにマークされています。"
+
+msgid "The uploaded file exceeds the <code>upload_max_filesize</code> directive in <code>php.ini</code>."
+msgstr "アップロードされたファイルは<code>php.ini</code>の<code>upload_max_filesize</code>ディレクティブを超えています。"
+
+msgid "The uploaded file exceeds the <em>MAX_FILE_SIZE</em> directive that was specified in the HTML form."
+msgstr "アップロードされたファイルは、HTMLフォームで指定された<em>MAX_FILE_SIZE</em>ディレクティブを超えています。"
+
+msgid "The uploaded file was only partially uploaded."
+msgstr "アップロードされたファイルは、部分的にアップロードされました。"
+
+msgid "No file was uploaded."
+msgstr "ファイルはアップロードできませんでした。"
+
+msgid "Missing a temporary folder."
+msgstr "一時フォルダが見つかりません。"
+
+msgid "Failed to write file to disk."
+msgstr "ディスクへのファイルの書き込みに失敗しました。"
+
+msgid "File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini."
+msgstr "ファイルが空です。実体のあるファイルをアップロードしてください。また、このエラーは、アップロードがphp.iniで無効になっている場合も発生します。"
+
+msgid "Specified file failed upload test."
+msgstr "指定されたファイルはアップロードのテストに失敗しました。"
+
+msgid "File type does not meet security guidelines. Try another."
+msgstr "ファイルタイプは、セキュリティガイドラインを満たしていません。別のものをお試しください。"
+
+msgid "The uploaded file could not be moved to %s."
+msgstr "アップロードされたファイルを%sに移動できませんでした。"
+
+msgid "Edit Plugins"
+msgstr "プラグインを編集"
+
+msgid "Postie is almost ready."
+msgstr "Postieは、ほぼ準備ができています。"
+
+msgid "You must <a href=\"%1$s\">enter your email settings</a> for it to work."
+msgstr "それが機能するために<a href=\"%1$s\">メール設定</a>を行う必要があります。"
+
+msgid "Warning: the IMAP php extension is not installed. Postie can not use IMAP, IMAP-SSL or POP-SSL without this extension."
+msgstr "警告: IMAPのPHP拡張モジュールがインストールされていません。Postieは、IMAP、IMAP-SSLまたはPOP-SSLのモジュールが無い場合は使用できません。"
+
+msgid "Warning: The POP3 connector does not support TLS."
+msgstr "警告: POP3コネクタはTLSをサポートしていません。"
+
+msgid "Warning: the Multibyte String php extension (mbstring) is not installed. Postie will not function without this extension."
+msgstr "警告: PHPマルチバイト文字列拡張モジュール (mbstring) がインストールされていません。Postieは、このモジュールが無い場合は使用できません。"
+
+msgid "Warning: the Admin username is not a valid WordPress login. Postie may reject emails if this is not corrected."
+msgstr "警告: 管理者のユーザー名はWordPressで有効ではありません。これが修正されていない場合Postieがメールを拒否することができます。"
+
+msgid "Once Weekly"
+msgstr "週1回"
+
+msgid "Twice per hour"
+msgstr "1時間に2回"
+
+msgid "Every 10 minutes"
+msgstr "10分ごと"
+
+msgid "Every 5 minutes"
+msgstr "5分ごと"
+
+msgid "Postie Diagnosis"
+msgstr "Postieの診断"
+
+msgid "Welcome %s!"
+msgstr "ようこそ %s！"
+
+msgid "A string with low priority!"
+msgstr "優先度の低い文字列！"
+
+msgid "Bye\n"
+msgstr "さようなら\n"
+
+msgid "You have one new message."
+msgid_plural "You have %s new messages."
+msgstr[0] "%sの新しいメッセージがあります。"
+
+msgid "(Your Mail server settings will be retained)"
+msgstr " (メールサーバーの設定は保持します)"
+
+msgid "Changing this to yes <b style='color: red'>is not recommended</b> - anything that gets sent in will automatically be posted."
+msgstr "これをYesにするのは<b style='color: red'>お勧めしません</b>。 - 送信されたメールが全て自動的に投稿されます。"
+
+msgid "Authorized Addresses"
+msgstr "投稿を許可するメールアドレス"
+
+msgid "Put each email address on a single line. Posts from emails in this list will be treated as if they came from the admin. If you would prefer to have users post under their own name - create a WordPress user with the correct access level."
+msgstr "一行に1つずつメールアドレスを入力します。このリスト内のアドレスから送信されたメールは投稿されます。任意の投稿ユーザーがある場合は適切なアクセスレベルのWordPressユーザーを作成します。"
+
+msgid "Forward Rejected Mail"
+msgstr "転送メールを拒否"
+
+msgid "Allow Subject In Mail"
+msgstr "メールの件名を許可"
+
+msgid "Allow HTML In Mail Subject"
+msgstr "メールの件名にHTMLを許可"
+
+msgid "Allow HTML In Mail Body"
+msgstr "メール本文にHTMLを許可"
+
+msgid "Wrap content in pre tags"
+msgstr "preタグ内のコンテンツを折り返す"
+
+msgid "Filter newlines"
+msgstr "改行フィルター"
+
+msgid "Replace newline characters with html line breaks (&lt;br /&gt;)"
+msgstr "HTMLの改行を改行文字に置換 (&lt;br /&gt;)"
+
+msgid "Return rejected mail to sender"
+msgstr "拒否メールを送信者に返す"
+
+msgid "Send post confirmation email to"
+msgstr "確認メールを送信"
+
+msgid "Automatically convert urls to links"
+msgstr "自動的にリンクをURLに変換"
+
+msgid "Use shortcode for embedding video (youtube and others)"
+msgstr "動画を埋め込むためのショートコードを使用 (YouTubeや他のもの)"
+
+msgid "When set to 'Yes' no attachments will appear in the post (including images, video &amp; sound files). Instead the url to the attachment will be put into a custom field named 'image'. Your theme will need logic to display these attachments"
+msgstr "'Yes'に設定すると添付ファイルが無い場合に投稿に表示します。(画像、動画や音声ファイルを含む) 代わりの添付ファイルのURLが'image'という名前のカスタムフィールドに入ります。あなたのテーマは、これらの添付ファイルを表示するためのロジックが必要になります。"
+
+msgid "Visit <a href=\"http://postieplugin.com/\" target=\"_blank\">PostiePlugin.com</a> for lots of information and assistance."
+msgstr "多くの情報や支援のための<a href=\"http://postieplugin.com/\" target=\"_blank\">PostiePlugin.com</a>を参照してください。"
+
+msgid "Add just the type (not the subtype). Text, Video, Audio, Image and Multipart are always supported. Put each type on a single line"
+msgstr "タイプを追加します。(サブタイプではない) テキストは動画、音声、画像やマルチパートを常にサポートしています。一行に1つずつ入力してください。"
+
+msgid "Allowed SMTP servers"
+msgstr "許可済SMTPサーバー"
+
+msgid "Automatically insert image gallery"
+msgstr "自動的に画像ギャラリーを挿入"
+
+msgid "Banned File Names"
+msgstr "禁止ファイル名"
+
+msgid "Decode Quoted Printable Data"
+msgstr "引用符で囲まれた印刷可能なデータをデコード"
+
+msgid "For use if using \"Image Place Holder Tag\" below."
+msgstr "下の'画像プレースホルダタグ'を使用する場合に使用します。"
+
+msgid "For use in 'plain' messages. The code for inserting an image. I.e. put \"#img1# in your email where you want the first image to show. See also \"Start Image Count At\""
+msgstr "'plainメッセージで使用する画像を挿入するためのコードで、すなわち#img1#はメールの最初の画像を配置します。\"画像のカウント\"を参照してください。"
+
+msgid "Generate Thumbnails"
+msgstr "サムネイルを生成する"
+
+msgid "If any images are attached, the first one will be the featured image for the post"
+msgstr "画像が添付されている場合は、最初の画像をアイキャッチ画像に設定します。"
+
+msgid "If any images are attached, they will automatically be inserted as a gallery"
+msgstr "すべての画像が結合している場合、それらを自動的にギャラリーとして挿入します。"
+
+msgid "Image Location"
+msgstr "画像の位置"
+
+msgid "Location of attachments if using 'plain' format. Before or After content."
+msgstr "添付ファイルに'plain'形式を使用する場合に配置する場所です。コンテンツの前"
+
+msgid "Match short category"
+msgstr "ショートカテゴリにマッチ"
+
+msgid "Only allow messages which have been sent throught the following SMTP servers. Put each server on a separate line. Leave blank to allow any SMTP server."
+msgstr "指定したSMTPサーバーを介して送信されたメッセージのみ許可します。許可するSMTPサーバーを一行に1つずつ入力します。SMTPサーバーをチェックしない場合は空白にしてください。"
+
+msgid "Put each file name on a single line.Files matching this list will never be posted to your blog. You can use wildcards such as *.xls, or *.* for all files"
+msgstr "一行に1つずつファイル名を入力してください。 このリストに一致するファイルは投稿されません。例えばワイルドカードを用いて*.xlsのようにするか、すべてのファイルを*.*で指定します"
+
+msgid "Put each pattern on a separate line. Patterns are <a href='http://regex101.com/' target='_blank'>regular expressions</a>"
+msgstr "一行に1つずつ各パターンを入力してください。パターンは<a href='http://regex101.com/' target='_blank'>正規表現</a>です。"
+
+msgid "Signature Patterns"
+msgstr "シグネチャーパターン"
+
+msgid "Some hosts crash during thumbnail generation. Set this to 'No' if you have this issue"
+msgstr "サムネイル生成時にホストがクラッシュする場合はこの設定を'No'にしてください。"
+
+msgid "Start Image Count At"
+msgstr "画像のカウント"
+
+msgid "Supported MIME Types"
+msgstr "サポートされたMIMEタイプ"
+
+msgid "Try to match categories using 'starts with logic' otherwise only do exact matches.<br />Note that custom taxonomies will not be found if this setting is 'No'"
+msgstr "カテゴリはそれ以外の完全一致のみを行う'ロジックで開始'を使用して一致させるようにしてください。<br />この設定が'No'の場合、カスタムタクソノミーは検出されないのでご注意ください。"
+
+msgid "Use custom image field for attachments"
+msgstr "添付ファイルの画像用カスタムフィールドを使用"
+
+msgid "Use First Image as Featured Image"
+msgstr "最初の画像をアイキャッチ画像にする"
+
+msgid "Filter newlines must be turned on for this option to take effect"
+msgstr "改行フィルターを有効にする場合は、このオプションを'Yes'にします。"
+
+msgid "Retain newlines from plain text. Set to no if using markdown or textitle syntax"
+msgstr "プレーンテキストから新しい行を保持します。マークダウンまたはtextitleの構文を使用している場合はNoに設定します。"
+
+msgid "Drop The Signature From Mail"
+msgstr "メールから署名を削除"
+
+msgid "Please Donate, Every $ Helps!"
+msgstr "寄付してください!"
+
+msgid "Your generous donation allows me to continue developing Postie for the WordPress community."
+msgstr "あなたの寛大な寄付でWordPressコミュニティのためのPostieの開発を継続することができます。"
+
+msgid "Clock Tests"
+msgstr "クロックテスト"
+
+msgid "This shows what time it would be if you posted right now"
+msgstr "これは今投稿したかどうかの時間を示しています"
+
+msgid "Postie Configuration Test"
+msgstr "Postieの設定テスト"
+
+msgid "Connect to Mail Host"
+msgstr "メールホストに接続"
+
+msgid "Published"
+msgstr "公開"
+
+msgid "Draft"
+msgstr "下書き"
+
+msgid "Pending Review"
+msgstr "レビュー待ち"
+
+msgid "Private"
+msgstr "非公開"
+
+msgid "All"
+msgstr "全て"
+
+msgid "Default category"
+msgstr "デフォルトのカテゴリ"
+
+msgid "Default tag(s)"
+msgstr "デフォルトのタグ"
+
+msgid "Text for Message Start"
+msgstr "メッセージの開始テキスト"
+
+msgid "Text for Message End"
+msgstr "メッセージの終了テキスト"
+
+msgid "Remove all text from the beginning of the message up to the point where this is found."
+msgstr "これがある時点以前のすべてのテキストを削除します。"
+
+msgid "Remove all text from the point this is found to the end of the message."
+msgstr "これがある時点移行のすべてのテキストを削除します。"

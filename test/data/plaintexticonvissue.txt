@@ -1,0 +1,115 @@
+Return-Path: <ec2-user@aws.665wellsbury.com>
+Delivered-To: wiremachine@sfbay.ca
+Received: from server.sfbay.ca
+	by server.sfbay.ca (Dovecot) with LMTP id dSDKJ7BC6VnhSgAAiVQ9wA
+	for <wiremachine@sfbay.ca>; Thu, 19 Oct 2017 17:26:24 -0700
+Return-path: <ec2-user@aws.665wellsbury.com>
+Envelope-to: wires@sfbay.ca
+Delivery-date: Thu, 19 Oct 2017 17:26:24 -0700
+Received: from aws.665wellsbury.com ([34.193.119.38]:58912)
+	by server.sfbay.ca with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <ec2-user@aws.665wellsbury.com>)
+	id 1e5L8p-0004zJ-GJ
+	for wires@sfbay.ca; Thu, 19 Oct 2017 17:26:23 -0700
+Received: from aws.665wellsbury.com (localhost [127.0.0.1])
+	by aws.665wellsbury.com (8.14.4/8.14.4) with ESMTP id v9K0O1Cp010310
+	for <bcn-general@aws.665wellsbury.com>; Thu, 19 Oct 2017 17:24:01 -0700
+Received: (from ec2-user@localhost)
+	by aws.665wellsbury.com (8.14.4/8.14.4/Submit) id v9K0O11q010309
+	for bcn-general@aws.665wellsbury.com; Thu, 19 Oct 2017 17:24:01 -0700
+Date: Thu, 19 Oct 2017 17:24:01 -0700
+From: Webmaster <ec2-user@aws.665wellsbury.com>
+To: bcn-general@aws.665wellsbury.com
+Subject: BCN45:SONOMA CO.: SHERIFF CHALLENGES IMPLICATIONS THAT MAN 
+Message-ID: <20171020002401.GA10307@aws.665wellsbury.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+User-Agent: Mutt/1.5.20 (2009-12-10)
+
+Oct 19, 2017 - BCN45:SONOMA CO.: SHERIFF CHALLENGES IMPLICATIONS THAT MAN ARRESTED FOR ARSON COULD HAVE SET DEADLY FIRES
+
+	   
+	   
+	   BCN45        -ARSON DISPUTE
+	   
+	   SANTA ROSA (BCN)
+	   Sonoma County Sheriff Rob Giordano today challenged implications 
+that a Sonoma Valley man who was arrested for arson over the weekend could be 
+responsible for some of the fires that have been burning in the North Bay 
+since Oct. 8.
+	   Giordano responded to a press release issued Wednesday by Thomas 
+Homan, the Acting Director of the federal Immigration and Customs Enforcement 
+about Jesus Fabian Gonzalez.
+	   Giordano said the press release was "inaccurate, inflammatory and 
+damages the relationship we have with our community."
+	   On Sunday, the sheriff's office arrested Gonzalez, 48, for felony 
+arson, which occurred at Maxwell Farms Regional Park in the Sonoma Valley 
+where Gonzales was sleeping, Giordano said. Deputies recognized Gonzalez who 
+told the deputies he lit the fire to keep warm.
+	   Gonzalez is being held in the Sonoma County Jail under $100,000 
+bail on the arson charge and under $100,000 bail for a misdemeanor drug 
+related warrant from Ventura County, Giordano said.
+	   He was arraigned Wednesday in jail and his next court date has not 
+been set. The Sonoma County Superior Court is closed until Monday because of 
+the fires.
+	   ICE sent a request on Oct. 16 to detain Gonzalez for 48 hours past 
+his scheduled release date from the jail, but the detainer was not signed by 
+a judge and the sheriff's office could not legally honor it, Giordano said.
+	   ICE spokesman James Schwab said Wednesday ICE filed an 
+administrative detainer to hold Gonzalez, but Giordano said administrative 
+detainers are considered unreasonable search and seizure in violation of the 
+Fourth Amendment.
+	   "ICE has the ability to obtain a warrant for anyone they are 
+interested in like we do everyday in this county. If ICE obtains a warrant I 
+can legally hold the person and would be happy to do so," Giordano said.
+	   Gonzalez will remain in the Sonoma County Jail until his arson 
+case is adjudicated and Ventura County will then prosecute Gonzalez, Giordano 
+said.
+	   In his press release, ICE Acting Director Homan said, "Once again, 
+a non-cooperative jurisdiction has left their community vulnerable to 
+dangerous individuals and preventable crimes."
+	   Homan also said ICE lodged detainers against Gonzalez after four 
+arrests on felony and misdemeanor charges in Sonoma County, and ICE was never 
+notified about Gonzalez's various releases from custody. He also said 
+Gonzalez returned to Mexico twice.
+	   "The residents of Sonoma County, and the state of California 
+deserve better than policies that expose them to avoidable dangers," Homan 
+said.
+	   "Non-cooperation policies - now enshrined in California state law 
+- ensure only one thing: criminals who would otherwise be deported will be 
+released and left free to re-offend as they please," Homan said.
+	   While Homan did not specifically say Gonzalez is suspected of 
+starting any fires in the Bay Area, as reported in some media, he said the 
+sheriff's office's action "is especially troubling in light of the massive 
+wildfires already devastating the region."
+	   Giordano said Cal Fire is investigating the cause of the Tubbs 
+Fire, which has caused 23 deaths in Sonoma County, and other fires in the 
+North Bay.
+	   "There is no indication that Gonzalez had anything to do with 
+these fires and it appears highly unlikely," Giordano said.
+	   "ICE attacked the Sheriff's Office in the midst of the largest 
+natural disaster this county has even experienced," Giordano said in his 
+press release.
+	   "ICE's misleading statement stirs fear in some of our community 
+members who are already exhausted and scared," Giordano said.
+	   The Sheriff said he will work with ICE cooperatively and within 
+the sheriff's office's policy and the law.
+	   "Despite ICE's misleading statement, we will continue to protect 
+and serve our community members with the strength and compassion they 
+deserve. I hope to end this senseless public confrontation with these facts 
+so that I may focus on the fire recovery," Giordano said.
+	   
+	   JamesLanaras0523p10/19/17
+	   
+	   CONTACT: ICE spokesman James Schwab (415) 305-1833
+	            Sonoma County Sheriff Giordano (707) 565-2781
+	            Sheriff's Sgt. Spencer Crum (707) 565-7681
+	   
+	   
+Copyright © 2017 by Bay City News, Inc. -- Republication, Rebroadcast or any other Reuse
+without the express written consent of Bay City News, Inc. is prohibited.
+
+/www/bcn/general/10/newsclip.17.10.19.17.24.01.1.txt

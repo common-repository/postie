@@ -1,0 +1,62 @@
+Return-Path: <dvp@mgnp.info>
+Received: from wintest.mgnp.local ([94.198.193.55])
+	by mgnp.info with BatPost v3.6 ESMTP Daemon
+	id 594786C200007AA1
+	for <a234qwe689cvmkuity@mgnp.info>; Wed, 28 Jun 2017 12:47:24 +0300
+Date: Wed, 28 Jun 2017 12:46:28 +0300
+From: =?windows-1251?B?xOzo8vDo6Q==?= <dvp@mgnp.info>
+Reply-To: =?windows-1251?B?xOzo8vDo6Q==?= <dvp@mgnp.info>
+X-Priority: 3 (Normal)
+Message-ID: <73863752.20170628124628@mgnp.info>
+To: a234qwe689cvmkuity@mgnp.info
+Subject: letter - only html
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----------05407D24C38E0DD65"
+
+------------05407D24C38E0DD65
+Content-Type: text/plain; charset=windows-1251
+Content-Transfer-Encoding: 8bit
+
+Hi!
+
+This letter is only html 
+
+
+"Preferred Text Type" = plain
+
+
+
+Здравствуйте.
+
+ыафыв афва ывп ар аоыв ывп р апор ро рпавпр ыв
+ап вапва п 
+
+-- 
+С уважением,
+Дмитрий                          mailto:dvp@mgnp.info
+------------05407D24C38E0DD65
+Content-Type: text/html; charset=windows-1251
+Content-Transfer-Encoding: 7bit
+
+<html><head><title>letter - only html</title>
+</head>
+<body>
+<span style=" font-family:'Courier New'; font-size: 9pt;">Hi!<br>
+<br>
+This letter is only html <br>
+<br>
+<br>
+"Preferred Text Type" = plain<br>
+<br>
+<br>
+<br>
+&#1047;&#1076;&#1088;&#1072;&#1074;&#1089;&#1090;&#1074;&#1091;&#1081;&#1090;&#1077;.<br>
+<br>
+&#1099;&#1072;&#1092;&#1099;&#1074; &#1072;&#1092;&#1074;&#1072; &#1099;&#1074;&#1087; &#1072;&#1088; &#1072;&#1086;&#1099;&#1074; &#1099;&#1074;&#1087; &#1088; &#1072;&#1087;&#1086;&#1088; &#1088;&#1086; &#1088;&#1087;&#1072;&#1074;&#1087;&#1088; &#1099;&#1074;<br>
+&#1072;&#1087; &#1074;&#1072;&#1087;&#1074;&#1072; &#1087; <br>
+<br>
+<span style=" font-family:'calibri'; color: #c0c0c0;"><i>-- <br>
+&#1057; &#1091;&#1074;&#1072;&#1078;&#1077;&#1085;&#1080;&#1077;&#1084;,<br>
+&#1044;&#1084;&#1080;&#1090;&#1088;&#1080;&#1081; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</i></span></span><a style=" font-family:'calibri'; font-size: 9pt;" href="mailto:dvp@mgnp.info">mailto:dvp@mgnp.info</a></body></html>
+------------05407D24C38E0DD65--

@@ -1,0 +1,85 @@
+AddOn Ideas
+Header/footer stripper - user provides "selector" (xpath) to identify header/footer and element is removed safely for html
+    selector = "div.footer" (div with the class "footer")
+    May need to remove parent (or granparent of element)
+    How to help non-techies build the selector?
+Email notifications - use postie_email_* filters and some new settings panels along with some templating. User can select which post status fire the email.
+Configurable message for "post confirmation" - variable substitution, by post status
+AddOn to remove images
+Option to include/exclude <div class="postie-post"> wrapper element
+
+Bugs
+#img# caption feature not working
+Comment not being created when subject contains category command []. I.e. listserv subject lines
+Comment not being created when subject contains format or type. I.e. re: image//Image subject
+
+oAuth
+Google Sign-In https://developers.google.com/identity/sign-in/web/sign-in
+Microsoft/Exchange Sign-In https://learn.microsoft.com/en-us/exchange/client-developer/legacy-protocols/how-to-authenticate-an-imap-pop-smtp-application-by-using-oauth
+
+Other
+Add default comment status (like post status) wp_set_comment_status
+Test server port combination by opening a socket connection to see if any service responds. (via ajax call)
+
+Change all "filters" to "addons" and allow them to be disabled (i.e. turn off processing for "date:"
+provide a location for custom icons. update docs about location.
+"yoast" style admin sidebar - see clicky by yoast
+check multiple email accounts
+allow other roles access to manual check like "Roles That Can Post"
+For IMAP mailboxes allow the user to choose the folder.
+Check to see if post already exists. Store hash in custom field.
+Add Message-ID header value to custom field (postie_message_id?) to both posts and comments.
+Use In-Reply-To/Message-ID header value as a better way to detect replies
+dynamically determine video size (height/width) - https://code.google.com/p/phpvideotoolkit/
+readme tips http://wp.smashingmagazine.com/2011/11/23/improve-wordpress-plugins-readme-txt/
+review http://codex.wordpress.org/Settings_API
+plugin structure http://www.yaconiello.com/blog/how-to-write-wordpress-plugin/
+Support EXIF orientation via PHP Exif Library https://github.com/lsolesen/pel
+use wordpress plugin template
+  boilerplate http://wppb.io/
+  starter-plugin https://github.com/mattyza/starter-plugin
+  WordPress-Plugin-Template https://github.com/hlashbrooke/WordPress-Plugin-Template
+
+Hooks
+add hooks for post meta data change
+  post type
+  post format
+  category
+  date
+  comment control
+  excerpt
+  tags
+  author
+add hooks for content changes
+  subject/title
+  post begin
+  post end
+  signature strip
+hook for actions
+  post failure
+  post success
+  media attachment
+  unpermitted attachment types
+  email rejected
+  email connection failure
+  mail read
+  mail delete
+collect and send last debug log and system info (see http://wordpress.org/plugins/send-system-info/)
+
+=========
+Revised parsing logic
+
+convert all logic to filters
+before session filter
+before mail filter
+email/account filter
+attachment filter
+iterate through each html element (p, div, etc) and apply all filters and buffer output
+after mail filter
+after session filter
+
+convert plain text to html using same logic as wp - i.e. all text is html
+Original text is never modified
+There are filters that modify
+  meta data (tags, categories, date)
+  content (start, end, newlines, linkifying)

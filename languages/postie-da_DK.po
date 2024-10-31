@@ -1,0 +1,409 @@
+# Postie Translation File
+# Copyright (C) 2005 Dirk Elmendorf <headgeek@economysizegeek.com>
+# This file is distributed under the same license as Postie.
+# Dirk Elmendorf <headgeek@economysizegeek.com>, 2005
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Postie\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-11-10 11:48-0600\n"
+"PO-Revision-Date: 2017-09-05 01:56+0200\n"
+"Last-Translator: Claus Svalekjaer <claus@svalekjaer.dk>\n"
+"Language-Team: Claus Svalekjaer <claus@svalekjaer.dk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: da_DK\n"
+"X-Generator: Poedit 2.0.3\n"
+
+#: config_form.php:18
+msgid "Postie Options"
+msgstr "Postie indstillinger"
+
+#: config_form.php:18
+msgid "Reset Configs To Default"
+msgstr "Nulstil konfigs til standard"
+
+#: config_form.php:2
+msgid ""
+"If you would like to start over - you can click the button on the right to "
+"reset all configurations to the default."
+msgstr ""
+"Hvis du vil starte forfra - kan du klikke på knappen til højre og nulstille "
+"alle konfigurations indstillinger til standard."
+
+#: config_form.php:30
+msgid "To run the check mail script manually"
+msgstr "Til at tjekke mail script manuelt"
+
+#: config_form.php:32
+msgid "Run Postie"
+msgstr "Kør Postie"
+
+#: config_form.php:39
+msgid ""
+"If you have problems with Postie this will run a special script to test your "
+"configuraiton options"
+msgstr ""
+"Hvis der er problemer med Postie, vil dette køre et specielt script til at "
+"teste din konfig indstillinger"
+
+#: config_form.php:41
+msgid "Test Config"
+msgstr "Test konfig"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nej"
+
+#: config_form.php
+msgid "Authorization Settings"
+msgstr "Autorisations indstillinger"
+
+#: config_form.php
+msgid "Allow Anyone To Post Via Email"
+msgstr "Tillad alle at poste via mail"
+
+#: config_form.php
+msgid ""
+"Changing this to yes is NOT RECOMMEDED - anything that gets sent in will "
+"automatically be posted. This could make it easier to compromise your server "
+"- YOU HAVE BEEN WARNED."
+msgstr ""
+"Det er IKKE ANBEFALET at ændre denne til JA - alt som sendes vil automatisk "
+"blive posted. Det kan gøre det nemmere at hacke din server - DU ER ADVARET."
+
+#: config_form.php
+msgid "Minimum Access Level Required To Post:"
+msgstr "Minimum adgangs niveau krævet for at poste:"
+
+#: config_form.php
+msgid ""
+"This allows you to grant access to other users to post if they have the "
+"proper access level"
+msgstr ""
+"Dette tillader at give andre brugere lov til at poste, hvis de har de "
+"nødvendige tilladelser"
+
+#: config_form.php
+msgid "Authorized Addresses"
+msgstr "Tilladte adresser"
+
+#: config_form.php
+msgid ""
+"Put each email address on a single line. Posts from emails in this list will "
+"be treated as if they came from the admin. If you would prefer to have users "
+"post under their own name - create a WordPress user with the correct access "
+"level."
+msgstr ""
+"Sæt hver enkelt email på en linie. Poster fra emails i listen vil blive "
+"behandlet som om de kom fra en admin. Hvis du vil have at brugere skal poste "
+"i deres eget navn - så opret en WordPress bruger med de nødvendige "
+"tilladelser."
+
+#: config_form.php
+msgid "Directory Settings"
+msgstr "Mappe indstillinger"
+
+#: config_form.php
+msgid "Directory For Photos:"
+msgstr "Mapper til billeder:"
+
+#: config_form.php
+msgid "Recommended"
+msgstr "Anbefalet"
+
+#: config_form.php
+msgid "Directory For Files:"
+msgstr "Mappe til filer:"
+
+#: config_form.php
+msgid "Message Settings"
+msgstr "Besked indstillinger"
+
+#: config_form.php
+msgid "Default post by mail category:"
+msgstr "Standard post i mail kategori:"
+
+#: config_form.php
+msgid "Default Title:"
+msgstr "Standard titel:"
+
+#: config_form.php
+msgid "Live from the field"
+msgstr "Direkte fra marken"
+
+#: config_form.php
+msgid "Prefered Text Type (HTML/plain):"
+msgstr "Foretrukken tekst type (HTML/plain):"
+
+#: config_form.php
+msgid "plain"
+msgstr "plain"
+
+#: config_form.php
+msgid "html"
+msgstr "html"
+
+#: config_form.php
+msgid "Forward Rejected Mail"
+msgstr "Videresend afvist mail"
+
+#: config_form.php
+msgid "Allow Subject In Mail"
+msgstr "Tillad overskrift i mail"
+
+#: config_form.php
+msgid "Allow HTML In Mail Subject"
+msgstr "Tillad HTML i mailoverskrift"
+
+#: config_form.php
+msgid "Allow HTML In Mail Body"
+msgstr "Tillad HTML i mailbrødtaksten"
+
+#: config_form.php
+msgid "Encoding for pages and feeds:"
+msgstr "Afkodning af sider og feeds:"
+
+#: config_form.php
+msgid "UTF-8"
+msgstr "UTF-8"
+
+#: config_form.php
+msgid "it should handle ISO-8859-1 as well"
+msgstr "det burde også håndtere ISO-8859-1"
+
+#: config_form.php
+msgid "Decode Quoted Printable Data"
+msgstr "Decode Quoted Printable Data"
+
+#: config_form.php
+msgid "Should be yes in most cases."
+msgstr "Bør være Ja i det fleste tilfælde."
+
+#: config_form.php
+msgid "Supported File Types"
+msgstr "Understøttede fil typer"
+
+#: config_form.php
+msgid "Put each type on a single line."
+msgstr "Sæt hver enkelt type på en linie."
+
+#: config_form.php
+msgid "Banned File Names"
+msgstr "Bannede fil navne"
+
+#: config_form.php
+msgid ""
+"Put each file name on a single line.Files matching this list will never be "
+"posted to your blog."
+msgstr ""
+"Sæt et filnavn på hver linie. Filer der matcher denne liste aldrig blive "
+"postet i din blog."
+
+#: config_form.php
+msgid "Drop The Signature From Mail"
+msgstr "Smid signatur fra mailen væk"
+
+#: config_form.php
+msgid "Signature Patterns"
+msgstr "Signatur mønster"
+
+#: config_form.php
+msgid ""
+"Put each pattern on a seperate line and make sure to escape any special "
+"characters."
+msgstr "Sæt hvert mønster på en linie og sikre at alle special tegner escaped."
+
+#: config_form.php
+msgid "Image Settings"
+msgstr "Billede indstillinger"
+
+#: config_form.php
+msgid "No GD Support"
+msgstr "Ingen GD understøttelse"
+
+#: config_form.php
+msgid ""
+"Currently your installation of PHP does not have GD installed so no image "
+"resizing can occur."
+msgstr ""
+"Pt. har din PHP-installation ingen GD installeret, så der kan ikke resizes "
+"billeder."
+
+#: config_form.php
+msgid "Post Images At End"
+msgstr "Post billeder i slutning"
+
+#: config_form.php
+msgid "No means they will be put before the text of the message."
+msgstr "No means they will be put before the text of the message."
+
+#: config_form.php
+msgid "Resize Large Images"
+msgstr "Resize store billeder"
+
+#: config_form.php
+msgid "Maximum Image Width:"
+msgstr "Maksimum billede bredde:"
+
+#: config_form.php
+msgid "pixels"
+msgstr "pixels"
+
+#: config_form.php
+msgid "JPEG Compression:"
+msgstr "JPEG kompression:"
+
+#: config_form.php
+msgid "%"
+msgstr "%"
+
+#: config_form.php
+msgid "Use ImageMagick"
+msgstr "Benyt ImageMagick"
+
+#: config_form.php
+msgid "convert binary location:"
+msgstr "konverter binær lokation:"
+
+#: config_form.php
+msgid "only needed if you are using ImageMagick"
+msgstr "skal kun bruges når ImageMagick anvendes"
+
+#: config_form.php
+msgid "should be /usr/bin/convert"
+msgstr "bør være /usr/bin/convert"
+
+#: config_form.php
+msgid "identify binary location:"
+msgstr "identify binary location:"
+
+#: config_form.php
+msgid "should be /usr/bin/identify"
+msgstr "bør være /usr/bin/identify"
+
+#: config_form.php
+msgid "Start Image Count At 0"
+msgstr "Start billede tælning med 0"
+
+#: config_form.php
+msgid "Image Place Holder Tag:"
+msgstr "Billede holder tag:"
+
+#: config_form.php
+msgid "Image CSS Class:"
+msgstr "Billede CSS Class:"
+
+#: config_form.php
+msgid "Image CSS Style:"
+msgstr "Billede CSS Style:"
+
+#: config_form.php
+msgid "3GP"
+msgstr "3GP"
+
+#: config_form.php
+msgid "Embed 3GP videos as QuickTime"
+msgstr "Embed 3GP videoer som QuickTime"
+
+#: config_form.php
+msgid ""
+"This controls if the video is just a link or embeded in the page using "
+"QuickTime"
+msgstr ""
+"Dette kontrollerer om videoen kun er et link eller embeded på siden vha. "
+"QuickTime"
+
+#: config_form.php
+msgid "Location of ffmpeg:"
+msgstr "Ffmpeg lokation:"
+
+#: config_form.php
+msgid ""
+"only needed if you are on a Linux server and use 3gp video,and don't embed "
+"the video. This allows postie to make thumbnail of the very first frame"
+msgstr ""
+"skal kun bruges hvis du er på en Linux server og anvender 3gp videoer og "
+"ikke embedder videoen. Gør at Postie kan lave et thumbnail af allerførste "
+"frame"
+
+#: config_form.php
+msgid "should be /usr/bin/ffmpeg"
+msgstr "burde være /usr/bin/ffmpeg"
+
+#: config_form.php
+msgid "3GP CSS Class:"
+msgstr "3GP CSS Class:"
+
+#: config_form.php
+msgid "Mailserver Settings"
+msgstr "Mailserver indstillinger"
+
+#: config_form.php
+msgid "Mail Protocol:"
+msgstr "Mail protokol:"
+
+#: config_form.php
+msgid "IMAP/IMAP-SSL/POP3-SSL unavailable"
+msgstr "IMAP/IMAP-SSL/POP3-SSL unavailable"
+
+#: config_form.php
+msgid "Standard Ports:"
+msgstr "Standard Porte:"
+
+#: config_form.php
+msgid "POP3"
+msgstr "POP3"
+
+#: config_form.php
+msgid "IMAP"
+msgstr "IMAP"
+
+#: config_form.php
+msgid "IMAP-SSL"
+msgstr "IMAP-SSL"
+
+#: config_form.php
+msgid "POP3-SSL"
+msgstr "POP3-SSL"
+
+#: config_form.php
+msgid "Postie Time Correction:"
+msgstr "Postie tidskorrektion:"
+
+#: config_form.php
+msgid "hours"
+msgstr "timer"
+
+#: config_form.php
+msgid ""
+"Should be the same as your normal offset - but this lets you adjust it in "
+"cases where that doesn't work."
+msgstr ""
+"Bør være det samme som din normale offset - men lader dig justere i tilfælde "
+"det ikke virker."
+
+#: config_form.php
+msgid "Mail Server:"
+msgstr "Mail Server:"
+
+#: config_form.php
+msgid "Port:"
+msgstr "Port:"
+
+#: config_form.php
+msgid "Mail Userid:"
+msgstr "Mail brugernavn:"
+
+#: config_form.php
+msgid "Mail Password:"
+msgstr "Mail adgangskode:"
+
+#: config_form.php
+msgid "Update Options"
+msgstr "Opdater indstillinger"

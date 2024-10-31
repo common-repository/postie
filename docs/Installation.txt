@@ -1,0 +1,7 @@
+== Installation ==
+* Install Postie either via the WordPress.org plugin directory, or by uploading the files to your server.
+* Activate Postie through the Plugins menu in WordPress.
+* Configure the plugin by going to the Postie menu that appears in your admin menu.
+* Make sure you enter the mailserver information correctly, including the type of connection and the port number. 
+* More information can be found at <a href="http://postieplugin.com/">http://postieplugin.com/</a>
+
